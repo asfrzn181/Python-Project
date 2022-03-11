@@ -1,0 +1,5 @@
+1. Use app.py for find an coordinate. Than save it with specific name file
+
+2. The you can open change main.py and add draw_fn function.
+
+3. after that you can use main.py for automatic drawing
